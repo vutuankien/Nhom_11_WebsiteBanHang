@@ -45,3 +45,5 @@ Bootstrap 5: Sử dụng Bootstrap để thiết kế giao diện đẹp mắt v
 Json-server: Sử dụng Json-server để tạo một API giả lập, giúp quản lý dữ liệu và phục vụ các yêu cầu từ frontend một cách dễ dàng.
 Kết Luận:
 Dự án website bán đồ ăn Lotteria sẽ cung cấp một nền tảng tiện lợi cho khách hàng để đặt hàng món ăn yêu thích và cho quản trị viên để quản lý sản phẩm và đơn hàng hiệu quả. Với các công nghệ hiện đại và giao diện thân thiện, dự án hứa hẹn sẽ mang đến trải nghiệm người dùng tốt nhất.
+
+Link Github: https://github.com/vutuankien/Lotteria.git
